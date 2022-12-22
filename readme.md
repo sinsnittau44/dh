@@ -29,7 +29,7 @@ git操作：
 
 在完成后使用 git push 提交代码到仓库
 
-https://github.com/sinsnittau44/awtpw.git
+https://github.com/sinsnittau44/dh.git
 
 sinsnittau@hotmail.com
 
